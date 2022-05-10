@@ -19,10 +19,10 @@ const App = () => {
         <Header />
       </div>
       <Brand />
+      <WhatGPT3 />
       <Features />
       <Possibilities />
       <CTA />
-      <WhatGPT3 />
       <Blog />
       <Footer />
     </div>
